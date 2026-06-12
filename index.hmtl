@@ -49,7 +49,7 @@
 
     <!-- ส่วนติดต่อและลิขสิทธิ์ -->
     <footer>
-        <p>ติดต่อผมได้:
+        <p>ติดต่อฉันได้:
             <a href="s37233@banbung.ac.th">s37233@banbung.ac.th</a>
         </p>
         <p>&copy; <span id="year"></span> YOSITA. All rights reserved. </p>
